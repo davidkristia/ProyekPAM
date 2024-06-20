@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138632513486",
+    "project_id": "tomokajibata-4b05c",
+    "storage_bucket": "tomokajibata-4b05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138632513486:android:1c18cdbb42ca4cc7564d9f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3JuVjoK8Q0AcCD5zH-lE2RoujEu017E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
